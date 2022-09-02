@@ -36,7 +36,7 @@ a {
 
 .bg-cover {
     overflow: hidden;
-    background: url('../images/home-page-bg.jpg');
+    background-color: #000;
     background-size: contain;
     background-position: center center;
     background-repeat: repeat;
